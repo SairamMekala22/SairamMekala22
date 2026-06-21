@@ -1,29 +1,182 @@
-<p align="center">
-    <img src="https://i.pinimg.com/736x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg" alt="Blockchain Technology Cartoon Illustration" style="width: 400px; height: auto;">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=220&section=header&text=Sairam%20Mekala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58" />
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=20\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=850\&lines=Python+%7C+Java+%7C+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+FastAPI+%7C+Full+Stack+Development+%F0%9F%8C%90;PyTorch+%7C+TensorFlow+%7C+Computer+Vision+%F0%9F%A4%96;Building+Scalable+Applications+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%92%A1)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=SairamMekala22&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+
+<br/><br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:sairammekala7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SairamMekala22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+```python
+class SairamMekala:
+
+    role = "Software Engineer"
+
+    education = "Computer Science Student"
+
+    interests = [
+        "Artificial Intelligence",
+        "Full Stack Development",
+        "Backend Engineering",
+        "Computer Vision",
+        "System Design",
+        "Open Source"
+    ]
+
+    currently_learning = [
+        "Spring Boot",
+        "FastAPI",
+        "Advanced Computer Vision",
+        "Scalable Backend Systems"
+    ]
+
+    mindset = "Learn deeply. Build consistently. Improve continuously."
+```
+
+---
+
+# 🚀 What I Do
+
+* 💻 Build full-stack web applications
+* 🤖 Explore AI, Machine Learning and Computer Vision
+* ⚙️ Design backend systems and APIs
+* 📊 Work with databases and data-driven applications
+* 🌱 Continuously learn and experiment with new technologies
+* 🔍 Enjoy solving real-world engineering problems
+
+---
+
+# 🎯 Current Focus
+
+* Building scalable full-stack applications
+* Exploring AI and Computer Vision systems
+* Strengthening backend architecture and API design
+* Learning advanced system design concepts
+* Contributing to open-source projects
+
+---
+
+# 📚 Areas of Interest
+
+* Artificial Intelligence & Machine Learning
+* Computer Vision
+* Backend Engineering
+* Cloud Technologies
+* Software Architecture
+* System Design
+* Open Source Development
+
+---
+
+# 💡 Engineering Principles
+
+```text
+• Write clean and maintainable code
+• Focus on solving problems, not chasing technologies
+• Build with scalability in mind
+• Continuously learn and improve
+• Prioritize simplicity over unnecessary complexity
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sairam Mekala</h1>
-<h2 align="center">A passionate fullstack developer from India</h2>
+### Frontend Development
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sairammekala22" alt="sairammekala22" /></a> </p>
-
-- 🌱 I’m currently learning **Springboot, opencv and MAVProxy**
-
-- 👯 I’m looking to collaborate on **Web development, Android and AIML projects**
-
-- 🤝 I’m looking for help with **Dronekit and Mission Planner for flight automation**
-
-- 📫 How to reach me **sairammekala7@gmail.com**
-
-
-<p align="left">
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### Backend Development
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sairammekala22&show_icons=true&locale=en&layout=compact" alt="sairammekala22" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,spring,mongodb,mysql" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sairammekala22&show_icons=true&locale=en" alt="sairammekala22" /></p>
+### AI / Machine Learning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sairammekala22&" alt="sairammekala22" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
+</p>
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SairamMekala22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamMekala22&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairamMekala22&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SairamMekala22&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+* 📧 Email: **[sairammekala7@gmail.com](mailto:sairammekala7@gmail.com)**
+* 💼 LinkedIn: **[sairammekala18](https://www.linkedin.com/in/sairammekala18/)**
+* 🌐 GitHub: **github.com/SairamMekala22**
+
+---
+
+<div align="center">
+
+### Learn Deeply • Build Consistently • Improve Continuously
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
