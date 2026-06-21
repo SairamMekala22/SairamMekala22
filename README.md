@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=220&section=header&text=Sairam%20Mekala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&size=20\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=850\&lines=Python+%7C+Java+%7C+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+FastAPI+%7C+Full+Stack+Development+%F0%9F%8C%90;PyTorch+%7C+TensorFlow+%7C+Computer+Vision+%F0%9F%A4%96;Building+Scalable+Applications+%E2%9A%A1;Always+Learning+Something+New+%F0%9F%92%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=850\&lines=Python+%7C+Java+%7C+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+FastAPI+%7C+Full+Stack+Development+%F0%9F%8C%90;Backend+Engineering+%7C+APIs+%7C+Databases+%E2%9A%99%EF%B8%8F;System+Design+%7C+Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Products+%26+Solving+Problems+%F0%9F%92%A1)](https://git.io/typing-svg)
+
 
 <br/>
 
@@ -153,15 +154,7 @@ class SairamMekala:
 
 </div>
 
----
 
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SairamMekala22&theme=tokyonight&no-frame=true&margin-w=10&column=7"/>
-
-</div>
 
 ---
 
