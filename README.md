@@ -1,175 +1,135 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=220&section=header&text=Sairam%20Mekala&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20•%20AI%20Engineer%20•%20Full%20Stack%20Developer&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sairam%20Mekala&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Final%20Year%20CS%20%40%20KMIT%20%7C%20Co-founder%2C%20AVC%20Innovations%20%7C%20Tech%20Apprentice%20%40%20DBS&descAlignY=58&descSize=15" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code\&weight=500\&size=20\&pause=1000\&color=3B82F6\&center=true\&vCenter=true\&width=850\&lines=Python+%7C+Java+%7C+JavaScript+%F0%9F%9A%80;React+%7C+Node.js+%7C+FastAPI+%7C+Full+Stack+Development+%F0%9F%8C%90;Backend+Engineering+%7C+APIs+%7C+Databases+%E2%9A%99%EF%B8%8F;System+Design+%7C+Software+Architecture+%F0%9F%8F%97%EF%B8%8F;Building+Products+%26+Solving+Problems+%F0%9F%92%A1)](https://git.io/typing-svg)
-
+</div>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=SairamMekala22&label=Profile%20Views&color=3B82F6&style=for-the-badge" />
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=818CF8&center=true&vCenter=true&width=750&lines=Backend+Engineering+%7C+APIs+%7C+System+Design;AI+%2F+ML+Pipelines+%7C+Computer+Vision+%7C+NLP;Java+%7C+Python+%7C+FastAPI+%7C+Spring+Boot;Building+real+products%2C+not+just+projects.)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## Who I Am
+
+Final year CS student at KMIT, Hyderabad (graduating 2027). Co-founder of **AVC Innovations** — building a speech synthesis system for people who cannot speak, with a provisional patent filed. Currently a **Tech Apprentice at DBS (Development Bank of Singapore)**, working across enterprise Java, microservices, data engineering, and GenAI.
+
+I work across backend systems, AI/ML pipelines, and full-stack development. Not artificially siloed — I follow the problem.
+
+---
+
+## 🔨 Featured Projects
+
+### 🎙️ AVC Innovations — Speech Synthesis System for Mute Individuals
+> Co-founder | Provisional Patent Filed (June 2025)
+
+Built the cloud AI pipeline for a wearable device that converts physiological signals (airflow, vibration, pressure, acoustics) into synthesized speech — targeting individuals with laryngectomy, vocal cord paralysis, or congenital mutism.
+
+**My engineering work:**
+- Designed the end-to-end data pipeline: sensor acquisition → MCU framing → WiFi relay → GCP cloud inference
+- Built the AI stack: CTC+Attention model for signal recognition → FastSpeech2 + HiFi-GAN for speech synthesis
+- Handled sensor fusion and feature engineering across 4 heterogeneous sensor inputs
+
+`Python` `GCP` `FastSpeech2` `HiFi-GAN` `STM32` `ESP32` `Signal Processing`
+
+---
+
+### 🌐 AarogyaBhashini — Multilingual Healthcare NLP System
+Multilingual NLP pipeline translating medical conversations between patients and doctors across Indian regional languages — built to reduce communication gaps in rural healthcare access.
+
+- Designed the backend translation pipeline handling multiple language pairs
+- Integrated translation models with a REST API layer for real-time use
+
+`Python` `NLP` `FastAPI` `Translation Models`
+
+---
+
+### 💰 AI-Powered Personal Finance Tracker
+Full-stack application built in 20 days with a team of 5 — served as **project lead and backend owner**.
+
+- Owned the entire backend: REST API design, database schema, and Gemini API integration for financial insights
+- Stack: FastAPI + PostgreSQL (Supabase) + Gemini API + React + Vite, deployed on Render/Vercel
+
+`FastAPI` `PostgreSQL` `Supabase` `Gemini API` `React` `Vite`
+
+---
+
+### 🍎 FruitPilot — YOLOv8 Computer Vision Pipeline
+Fine-tuned YOLOv8 for fruit detection and quality classification. Custom dataset collection, training pipeline, and edge-deployable model weights.
+
+`YOLOv8` `PyTorch` `Computer Vision` `Custom Dataset Pipeline`
+
+---
+
+## 🛠 Tech Stack
+
+| Domain | Tools |
+|---|---|
+| **Languages** | Java · Python · JavaScript · TypeScript · C · C++ |
+| **Backend** | Spring Boot · FastAPI · Node.js · Express · Flask |
+| **Frontend** | React · Next.js · Tailwind CSS |
+| **Databases** | PostgreSQL · MongoDB · MySQL |
+| **AI / ML** | PyTorch · TensorFlow · YOLOv8 · HuggingFace |
+| **Infra** | GCP · Docker · Git · Linux · Postman |
+
+---
+
+## 📊 GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SairamMekala22&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamMekala22&layout=compact&theme=midnight-purple&hide_border=true&langs_count=7"/>
+
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairamMekala22&theme=midnight-purple&hide_border=true"/>
+</div>
+
+---
+
+## 📌 Highlights
+
+- 🏦 **Tech Apprentice @ DBS Bank** — enterprise Java, Spring Boot, microservices, GenAI (8-month program)
+- 🧠 **Co-founder, AVC Innovations** — provisional patent filed, building assistive tech for speech-impaired individuals
+- 🌍 **GSSoC Contributor** — open source contributions
+- 🏅 **Hackathon placements** — BVRIT, IIIT Hyderabad
+
+---
+
+## 📫 Contact
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sairammekala18/">
+  <img src="https://img.shields.io/badge/LinkedIn-sairammekala18-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:sairammekala7@gmail.com">
+  <img src="https://img.shields.io/badge/Email-sairammekala7@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/SairamMekala22">
+  <img src="https://img.shields.io/badge/GitHub-SairamMekala22-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=SairamMekala22&label=Profile+Views&color=818cf8&style=flat-square" />
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/sairammekala18/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:sairammekala7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/SairamMekala22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+*Build real things. Solve real problems.*
 
 </div>
 
----
-
-# 👨‍💻 About Me
-
-```python
-class SairamMekala:
-
-    role = "Software Engineer"
-
-    education = "Computer Science Student"
-
-    interests = [
-        "Artificial Intelligence",
-        "Full Stack Development",
-        "Backend Engineering",
-        "Computer Vision",
-        "System Design",
-        "Open Source"
-    ]
-
-    currently_learning = [
-        "Spring Boot",
-        "FastAPI",
-        "Advanced Computer Vision",
-        "Scalable Backend Systems"
-    ]
-
-    mindset = "Learn deeply. Build consistently. Improve continuously."
-```
-
----
-
-# 🚀 What I Do
-
-* 💻 Build full-stack web applications
-* 🤖 Explore AI, Machine Learning and Computer Vision
-* ⚙️ Design backend systems and APIs
-* 📊 Work with databases and data-driven applications
-* 🌱 Continuously learn and experiment with new technologies
-* 🔍 Enjoy solving real-world engineering problems
-
----
-
-# 🎯 Current Focus
-
-* Building scalable full-stack applications
-* Exploring AI and Computer Vision systems
-* Strengthening backend architecture and API design
-* Learning advanced system design concepts
-* Contributing to open-source projects
-
----
-
-# 📚 Areas of Interest
-
-* Artificial Intelligence & Machine Learning
-* Computer Vision
-* Backend Engineering
-* Cloud Technologies
-* Software Architecture
-* System Design
-* Open Source Development
-
----
-
-# 💡 Engineering Principles
-
-```text
-• Write clean and maintainable code
-• Focus on solving problems, not chasing technologies
-• Build with scalability in mind
-• Continuously learn and improve
-• Prioritize simplicity over unnecessary complexity
-```
-
----
-
-# 🛠 Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,django,spring,mongodb,mysql" />
-</p>
-
-### AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-</p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
-</p>
-
----
-
-# 📈 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SairamMekala22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SairamMekala22&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SairamMekala22&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-
-
----
-
-# 📫 Connect With Me
-
-* 📧 Email: **[sairammekala7@gmail.com](mailto:sairammekala7@gmail.com)**
-* 💼 LinkedIn: **[sairammekala18](https://www.linkedin.com/in/sairammekala18/)**
-* 🌐 GitHub: **github.com/SairamMekala22**
-
----
-
-<div align="center">
-
-### Learn Deeply • Build Consistently • Improve Continuously
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:3B82F6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
